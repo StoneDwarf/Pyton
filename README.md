@@ -1,3 +1,2 @@
 # Pyton
-Random Pyton tries nothig serious.
-Jus tryng my skills.
+Random Pyton tries according to a learning curve.
