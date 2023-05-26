@@ -1,2 +1,2 @@
-# Pyton
-Random Pyton tries according to a learning curve.
+# Python
+Random Python tries according to a learning curve.
